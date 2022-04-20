@@ -1,0 +1,17 @@
+- Fundos para erro de manobristas;
+
+- Contratar Manobristas/Motoristas especializados e/ou terceirizados;
+
+- Utilizar sistemas reconhecem as placas dos veículos e somente liberam se o pagamento foi realizado (Sistema semelhante de shopping)
+
+- Fazer uma análise dos horários mais movimentados do ambiente para uma regulação melhor dos valores
+
+- Na entrada, a cancela indicara uma vaga vazia para melhor fluxo e logística (utilizando sensores)
+
+- Câmeras de segurança para haver provas caso tenha batidas ou problemas em geral.
+
+- Aplicativo do estacionamento (opções de vaga, pagamento, disponibilidade de vagas, consulta de valores)
+
+- Painel na frente do estacionamento mostrando a quantidade de vagas disponíveis.
+
+- Mais opções de pagamento (PIX, TED, Transferencias, Dinheiro, Bitcoin)
