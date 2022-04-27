@@ -1,0 +1,51 @@
+VALETI
+Sobre nosso app
+Valeti é uma plataforma que conecta motoristas, estacionamentos e estabelecimentos,
+ oferecendo uma forma segura e cômoda de estacionar, pagar e pedir seu veículo em
+ Valets e Estacionamentos que contam com uma plataforma segura e ágil para sua operação.
+
+Sobre nosso app
+Meio de Pagamento
+Você vai facilitar o gerenciamento do seu Valet ou Estacionamento e agilizar a vida do
+ seu cliente. Ela poderá realizar o pagamento via cartão de crédito, débito ou ConectCar,
+ SemParar e Veloe, é pratico para o cliente e cômodo para o Estacionamento.
+
+Plataforma Online
+No portal do cliente, você customiza e configura todas as opções do seu estacionamento ou
+Valet, além claro de contar com Dashboards, Relatórios e todos cadastros e configurações a sua mão.
+
+Automatização
+Sistema portátil com entrega do ticket ao cliente em no momento e local do desembarque.
+ Sistema com controle de pátio, cadastro completo de mensalistas, credenciados, selos e convênios,
+ evitando fraude ou falta de pagamento. Pagamento integrado no App ou no POS da Getnet, Rede e Cielo.
+ Sistema emite RPS / NFS-E com porsterior geração automática de arquivo e envio para Prefeitura de
+ seu município.
+
+Ticket Digital
+Reduza as fraudes, cada veículo um novo ticket, com o Ticket Digital o cliente recebe o Ticket
+no Valeti App, via SMS ou Email. Clientes que utilizam ticket digital impossibilitam qualquer
+fraude. Pagamento via App ou no POS DIGITAL automatiza a baixa do Ticket, sem chance de erros. 
+Além disso reduz o risco de fraude ou perdas com danos ou furto do veículo.
+
+Gestão Mobile e Web
+Gerencie seu negócio usando um Celular Android, Tablet ou Computador. Mantenha todos registros
+de placas e clientes na sua base de dados, quando eles voltarem, todos os dados são
+automaticamente preenchidos. Consulte pela placa no Painel de Controle do Clientes 
+todas entradas e estadias de seus cliente.
+
+Operações Real Time
+Para quem possui varios pontos, acompanhe todos seus Estacionamentos e Valets 
+online em tempo real do seu smartophone ou PC via web no portal do cliente.
+
+
+
+
+AUTOPARK
+
+1° Software de gerenciamento
+2°  Leitor de placa
+3° Totens de entrada e saída
+4° Sensor de vaga
+5° Câmeras de monitoramento
+6° Integração do sistema
+7°  Cancelas eletrônicas
