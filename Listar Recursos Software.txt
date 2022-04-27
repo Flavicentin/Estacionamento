@@ -1,14 +1,14 @@
 VALETI
 Sobre nosso app
 Valeti é uma plataforma que conecta motoristas, estacionamentos e estabelecimentos,
- oferecendo uma forma segura e cômoda de estacionar, pagar e pedir seu veículo em
- Valets e Estacionamentos que contam com uma plataforma segura e ágil para sua operação.
+oferecendo uma forma segura e cômoda de estacionar, pagar e pedir seu veículo em
+Valets e Estacionamentos que contam com uma plataforma segura e ágil para sua operação.
 
 Sobre nosso app
 Meio de Pagamento
 Você vai facilitar o gerenciamento do seu Valet ou Estacionamento e agilizar a vida do
- seu cliente. Ela poderá realizar o pagamento via cartão de crédito, débito ou ConectCar,
- SemParar e Veloe, é pratico para o cliente e cômodo para o Estacionamento.
+seu cliente. Ela poderá realizar o pagamento via cartão de crédito, débito ou ConectCar,
+SemParar e Veloe, é pratico para o cliente e cômodo para o Estacionamento.
 
 Plataforma Online
 No portal do cliente, você customiza e configura todas as opções do seu estacionamento ou
@@ -16,10 +16,10 @@ Valet, além claro de contar com Dashboards, Relatórios e todos cadastros e con
 
 Automatização
 Sistema portátil com entrega do ticket ao cliente em no momento e local do desembarque.
- Sistema com controle de pátio, cadastro completo de mensalistas, credenciados, selos e convênios,
- evitando fraude ou falta de pagamento. Pagamento integrado no App ou no POS da Getnet, Rede e Cielo.
- Sistema emite RPS / NFS-E com porsterior geração automática de arquivo e envio para Prefeitura de
- seu município.
+Sistema com controle de pátio, cadastro completo de mensalistas, credenciados, selos e convênios,
+evitando fraude ou falta de pagamento. Pagamento integrado no App ou no POS da Getnet, Rede e Cielo.
+Sistema emite RPS / NFS-E com porsterior geração automática de arquivo e envio para Prefeitura de
+seu município.
 
 Ticket Digital
 Reduza as fraudes, cada veículo um novo ticket, com o Ticket Digital o cliente recebe o Ticket
